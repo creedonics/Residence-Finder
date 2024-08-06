@@ -89,3 +89,18 @@ groups = [
     },
     # Add more groups as needed
 ]
+
+### Log File
+
+The logfile.log file contains logs of script activities, including:
+- Successful and failed message sends
+- URLs checked and keywords found
+- Any errors encountered
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Contact
+
+For any issues or questions, please open an issue on GitHub or contact yourname.
