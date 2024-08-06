@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Path to the Python script
-SCRIPT="/home/creedonix/Study/Programming/Python/Residence_Script/Final/ResCheckAll.py"
+SCRIPT="/Path/to/your/script/ResCheckAll.py" 
 
-# Log file
-LOGFILE="/home/creedonix/Study/Programming/Python/Residence_Script/Final/logfile.log"
+# Path to the Log file
+LOGFILE="/Path/to/your/script/logfile.log" 
 
 # Function to start the script
 start_script() {
