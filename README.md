@@ -34,8 +34,8 @@ Make sure you have the following installed:
 
 3. **Configure API Keys**:
 
-    - Get your WhatsApp API key from CallMeBot.
-    - Get your Signal API key from CallMeBot.
+    - Get your [WhatsApp API key from CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/).
+    - Get your [Signal API key from CallMeBot](https://www.callmebot.com/blog/free-api-signal-send-messages/).
     - Update the `groups` list in `ResCheckAll.py` with your API keys, phone numbers, and Signal IDs.
 
 4. **Make the Shell Script Executable**:
