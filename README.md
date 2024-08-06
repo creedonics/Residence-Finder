@@ -15,7 +15,7 @@ Make sure you have the following installed:
 - Python 3.x
 - Required Python packages: `requests`, `beautifulsoup4`
 - Git
-- CallMeBot API keys for WhatsApp and Signal
+- [CallMeBot API](https://www.callmebot.com/) keys for WhatsApp and Signal
 
 ## Setup Instructions
 
